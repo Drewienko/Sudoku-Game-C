@@ -1,0 +1,9 @@
+{
+  "name": "sudoku-game-c",
+  "version-string": "1.0.0",
+  "dependencies": [
+    {
+      "name": "allegro5"
+    }
+  ]
+}

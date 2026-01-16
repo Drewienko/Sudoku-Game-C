@@ -1,0 +1,4 @@
+PROJECT_NAME           = "Sudoku"
+INPUT                  = ./include ./src
+RECURSIVE              = YES
+OUTPUT_DIRECTORY       = ./docs
